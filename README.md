@@ -44,6 +44,6 @@ Resultado después de ese día:
 
 ---
 ## Pregunta 1
-Puedes 
+Puedes definir 
 ## Pregunta 2
 
