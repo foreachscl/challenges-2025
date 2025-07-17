@@ -44,6 +44,6 @@ Resultado después de ese día:
 
 ---
 ## Pregunta 1
-Puedes definir 
+Puedes decir cuantos aliens habrá para el día 18
 ## Pregunta 2
-
+Puedes decir cuantos alien habrá para el día 100
